@@ -5,6 +5,7 @@
 - 📫 How to reach me at arodriguez19@ubishops.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love chihuahuas and farmer's markets.
+- ⏰ Time Zone: Eastern time 
 
 <!---
 anafer25/anafer25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
