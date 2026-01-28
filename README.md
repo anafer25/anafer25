@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=500&lines=Hi,+I'm+Ana+Fernanda+Rodriguez;Physics+Enthusiast+|+Python+Coder;Lifelong+Learner+|+Curious+Mind;Sustainability+|+Mentorship)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=500&lines=Hi,+I'm+Ana+Fernanda+Rodriguez)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=500&lines=Physics+Enthusiast+|+Python+Coder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=500&lines=Lifelong+Learner+|+Curious+Mind)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=500&lines=Sustainability+|+Mentorship)
 
 
 
