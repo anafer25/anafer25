@@ -1,5 +1,5 @@
 <!-- Name -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=FF69B4&width=400&lines=Hi,+I'm+Ana+Fernanda+Rodriguez!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=FF69B4&width=400&lines=Hi,+I'm+Ana+Fer)
 
 <!-- Welcome line under name -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2500&color=FF69B4&width=400&lines=Welcome+to+my+GitHub!)
