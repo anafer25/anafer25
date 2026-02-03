@@ -4,7 +4,7 @@
 <!-- Welcome line under name -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2500&color=FF69B4&width=400&lines=Welcome+to+my+GitHub!)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=4B0082&width=400&lines=Physics+Professional)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=4B0082&width=400&lines=Physics+Graduate)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=4B0082&width=400&lines=Python+Coder)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=3000&color=4B0082&width=400&lines=Math+Tutor)
 
